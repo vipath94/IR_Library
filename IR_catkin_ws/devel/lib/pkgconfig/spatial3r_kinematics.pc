@@ -1,0 +1,8 @@
+prefix=/home/vipath/IR_library_ros/IR_catkin_ws/devel
+
+Name: spatial3r_kinematics
+Description: Description of spatial3r_kinematics
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vipath/IR_library_ros/IR_catkin_ws/devel/lib 
+Requires: 

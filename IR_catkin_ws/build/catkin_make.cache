@@ -1,0 +1,2 @@
+planar2r_description:planar2r_kinematics:planar3r_description:planar3r_kinematics:spatial3r_description:spatial3r_kinematics
+-DCATKIN_DEVEL_PREFIX=/home/vipath/IR_library_ros/IR_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vipath/IR_library_ros/IR_catkin_ws/install -G Unix Makefiles

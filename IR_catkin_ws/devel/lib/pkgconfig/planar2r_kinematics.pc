@@ -1,0 +1,8 @@
+prefix=/home/vipath/IR_library_ros/IR_catkin_ws/devel
+
+Name: planar2r_kinematics
+Description: Description of planar2r_kinematics
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/vipath/IR_library_ros/IR_catkin_ws/devel/lib 
+Requires: 

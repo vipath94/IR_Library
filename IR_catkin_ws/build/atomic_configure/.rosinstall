@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vipath/IR_library_ros/IR_catkin_ws/devel/setup.sh
